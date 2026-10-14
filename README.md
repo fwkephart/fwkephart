@@ -17,6 +17,4 @@ Python · pandas · scikit-learn · Excel · Tableau · JobBOSS²
   customer spending, and demographic patterns.
 
 ### Experience
-At BB&H Tool Company, I developed a digital inventory location-tracking
-system in JobBOSS² and created an Excel dashboard to track equipment
-calibration status.
+At BB&H Tool Company, an AS9100D-certified precision manufacturer, I developed a digital inventory location-tracking system in JobBOSS². I assigned unique Smart IDs that connected hardware and finished-goods records to on-hand quantities and physical storage locations. I also organized equipment calibration records in Excel, with status tracking and links to scanned certificates.
