@@ -1,16 +1,22 @@
-## Hello, I'm Finn!👋
+# Hi, I'm Finn Kephart
 
+I'm a Business Analytics student at the University of Cincinnati's
+Carl H. Lindner College of Business, graduating in 2027.
 
-**fwkephart/fwkephart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in using data to understand business problems and support
+better decisions. My experience includes customer analysis, predictive
+modeling, data visualization, and inventory management.
 
-Here are some ideas to get you started:
+### Tools
+Python · pandas · scikit-learn · Excel · Tableau · JobBOSS²
 
-- 🔭 I’m currently working on building my portfolio!
-- 🌱 I’m currently starting to learn code in Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have run a 4:20 mile!
--->
+### Portfolio Projects
+- **Customer Churn Prediction** — Exploring customer behavior and comparing
+  machine learning models to identify customers at risk of leaving.
+- **Retail Coupon Analysis** — A group project examining coupon redemption,
+  customer spending, and demographic patterns.
+
+### Experience
+At BB&H Tool Company, I developed a digital inventory location-tracking
+system in JobBOSS² and created an Excel dashboard to track equipment
+calibration status.
