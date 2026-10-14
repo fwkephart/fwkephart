@@ -8,7 +8,7 @@ better decisions. My experience includes customer analysis, predictive
 modeling, data visualization, and inventory management.
 
 ### Tools
-Python · pandas · scikit-learn · Excel · Tableau · JobBOSS²
+Python · pandas · scikit-learn · Excel · Tableau · JobBOSS² · SQL
 
 ### Portfolio Projects
 - **Customer Churn Prediction** — Exploring customer behavior and comparing
